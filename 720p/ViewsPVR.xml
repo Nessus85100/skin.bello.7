@@ -686,24 +686,14 @@
 						<aligny>center</aligny>
 						<label fallback="..">$INFO[ListItem.Title]</label>
 					</control>
-					<control type="group">
-						<description>Progress</description>
-						<visible>ListItem.HasEpg</visible>
+					<control type="image">
 						<left>837</left>
 						<top>5</top>
-						<control type="image">
-							<width>36</width>
-							<height>36</height>
-							<aspectratio>stretch</aspectratio>
-							<texture>windows/pvr/clock_progress/back.png</texture>
-						</control>
-						<control type="image">
-							<width>36</width>
-							<height>36</height>
-							<aspectratio>stretch</aspectratio>
-							<colordiffuse>viewsinfo</colordiffuse>
-							<texture>$VAR[PVRTimeProgress]</texture>
-						</control>
+						<width>36</width>
+						<height>36</height>
+						<aspectratio>stretch</aspectratio>
+						<texture>$VAR[PVRTimeProgress]</texture>
+						<visible>ListItem.HasEpg</visible>
 					</control>
 				</itemlayout>
 				<focusedlayout height="50">
@@ -803,23 +793,14 @@
 							<aligny>center</aligny>
 							<label fallback="..">$INFO[ListItem.Title]</label>
 						</control>
-						<control type="group">
-							<description>Progress</description>
-							<visible>ListItem.HasEpg</visible>
+						<control type="image">
 							<left>837</left>
 							<top>5</top>
-							<control type="image">
-								<width>36</width>
-								<height>36</height>
-								<aspectratio>stretch</aspectratio>
-								<texture>windows/pvr/clock_progress/back.png</texture>
-							</control>
-							<control type="image">
-								<width>36</width>
-								<height>36</height>
-								<aspectratio>stretch</aspectratio>
-								<texture>$VAR[PVRTimeProgress]</texture>
-							</control>
+							<width>36</width>
+							<height>36</height>
+							<aspectratio>stretch</aspectratio>
+							<texture>$VAR[PVRTimeProgress]</texture>
+							<visible>ListItem.HasEpg</visible>
 						</control>
 					</control>
 				</focusedlayout>
@@ -1024,24 +1005,14 @@
 						<aligny>center</aligny>
 						<label fallback="..">$INFO[ListItem.Title]</label>
 					</control>
-					<control type="group">
-						<description>Progress</description>
-						<visible>ListItem.HasEpg</visible>
+					<control type="image">
 						<left>837</left>
 						<top>5</top>
-						<control type="image">
-							<width>36</width>
-							<height>36</height>
-							<aspectratio>stretch</aspectratio>
-							<texture>windows/pvr/clock_progress/back.png</texture>
-						</control>
-						<control type="image">
-							<width>36</width>
-							<height>36</height>
-							<aspectratio>stretch</aspectratio>
-							<colordiffuse>viewsinfo</colordiffuse>
-							<texture>$VAR[PVRTimeProgress]</texture>
-						</control>
+						<width>36</width>
+						<height>36</height>
+						<aspectratio>stretch</aspectratio>
+						<texture>$VAR[PVRTimeProgress]</texture>
+						<visible>ListItem.HasEpg</visible>
 					</control>
 				</itemlayout>
 				<focusedlayout height="50">
@@ -1141,23 +1112,14 @@
 							<aligny>center</aligny>
 							<label fallback="..">$INFO[ListItem.Title]</label>
 						</control>
-						<control type="group">
-							<description>Progress</description>
-							<visible>ListItem.HasEpg</visible>
+						<control type="image">
 							<left>837</left>
 							<top>5</top>
-							<control type="image">
-								<width>36</width>
-								<height>36</height>
-								<aspectratio>stretch</aspectratio>
-								<texture>windows/pvr/clock_progress/back.png</texture>
-							</control>
-							<control type="image">
-								<width>36</width>
-								<height>36</height>
-								<aspectratio>stretch</aspectratio>
-								<texture>$VAR[PVRTimeProgress]</texture>
-							</control>
+							<width>36</width>
+							<height>36</height>
+							<aspectratio>stretch</aspectratio>
+							<texture>$VAR[PVRTimeProgress]</texture>
+							<visible>ListItem.HasEpg</visible>
 						</control>
 					</control>
 				</focusedlayout>

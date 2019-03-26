@@ -825,7 +825,7 @@
 					<control type="label">
 						<height>17</height>
 						<width min="10" max="590">auto</width>
-						<font>FontSize_10</font>
+						<font>FontSize_20</font>
 						<align>left</align>
 						<aligny>center</aligny>
 						<label>$INFO[System.TemperatureUnits]</label>

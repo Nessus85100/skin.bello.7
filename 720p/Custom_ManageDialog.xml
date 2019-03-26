@@ -139,7 +139,7 @@
 				<description>PartyMode Button</description>
 			  <width>425</width>
         <include>DialogsButton</include>
-				<label>$LOCALIZE[589] $LOCALIZE[31189]</label>
+				<label>$LOCALIZE[589]</label>
 				<onclick>Skin.ToggleSetting(QuickNavPartyModeButton)</onclick>
 				<selected>!Skin.HasSetting(QuickNavPartyModeButton)</selected>
 			</control>

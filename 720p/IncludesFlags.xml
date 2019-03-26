@@ -2,7 +2,7 @@
 <includes>
 	<variable name="MPAAFilmRating">
 		<value condition="String.StartsWith(ListItem.mpaa,Rated G) | String.StartsWith(ListItem.mpaa,Rated: G) | String.StartsWith(ListItem.mpaa, G)">flags/mpaa/film/us/rating-g.png</value>
-		<value condition="[String.StartsWith(ListItem.mpaa,Rated PG) | String.StartsWith(ListItem.mpaa,Rated: PG | String.StartsWith(ListItem.mpaa, PG)] + !String.StartsWith(ListItem.mpaa,Rated PG-13) + !String.StartsWith(ListItem.mpaa,Rated: PG-13) + !String.StartsWith(ListItem.mpaa, PG-13)">flags/mpaa/film/us/rating-pg.png</value>
+		<value condition="[String.StartsWith(ListItem.mpaa,Rated PG) | String.StartsWith(ListItem.mpaa,Rated: PG) | String.StartsWith(ListItem.mpaa, PG)] + !String.StartsWith(ListItem.mpaa,Rated PG-13) + !String.StartsWith(ListItem.mpaa,Rated: PG-13) + !String.StartsWith(ListItem.mpaa, PG-13)">flags/mpaa/film/us/rating-pg.png</value>
 		<value condition="String.StartsWith(ListItem.mpaa,Rated PG-13) | String.StartsWith(ListItem.mpaa,Rated: PG-13) | String.StartsWith(ListItem.mpaa, PG-13)">flags/mpaa/film/us/rating-pg13.png</value>
 		<value condition="String.StartsWith(ListItem.mpaa,Rated R) | String.StartsWith(ListItem.mpaa,Rated: R) | String.StartsWith(ListItem.mpaa, R)">flags/mpaa/film/us/rating-r.png</value>
 		<value condition="String.StartsWith(ListItem.mpaa,Rated NC-17) | String.StartsWith(ListItem.mpaa,Rated: NC-17) | String.StartsWith(ListItem.mpaa, NC-17)">flags/mpaa/film/us/rating-nc17.png</value>

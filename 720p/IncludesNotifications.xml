@@ -236,7 +236,7 @@
 					    <align>right</align>
 					    <aligny>center</aligny>
 							<scroll>false</scroll>
-	            <label>$LOCALIZE[24052] $LOCALIZE[416]</label>
+	            <label>$LOCALIZE[24052] $LOCALIZE[10005]</label>
 				      <visible>String.IsEmpty(ListItem.AddonDisclaimer)</visible>
 						</control>
 					</control>				

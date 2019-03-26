@@ -143,7 +143,6 @@
 					<onclick>SendClick(110)</onclick>
           <include>KeyboardButton</include>
 			    <label>$INFO[Control.GetLabel(110)]</label>
-					<onclick>Dialog.Close(110)</onclick>
 				</control>
 				<control type="button" id="4111">
 					<description>'Row 1, Key 11' button</description>
@@ -152,7 +151,6 @@
 					<onclick>SendClick(111)</onclick>
           <include>KeyboardButton</include>
 			    <label>$INFO[Control.GetLabel(111)]</label>
-					<onclick>Dialog.Close(111)</onclick>
 				</control>
 				<control type="button" id="8">
 					<description>'Backspace' button</description>

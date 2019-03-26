@@ -701,24 +701,15 @@
 						<animation effect="slide" start="0,0" end="20,0" condition="ListItem.HasTimer | ListItem.HasTimerSchedule">Conditional</animation>
 					</control>
 					<!-- DISABLED
-					<control type="group">
-						<description>Progress</description>
-						<visible>ListItem.HasEpg</visible>
+					<control type="image">
 						<left>408</left>
 						<top>16</top>
-						<control type="image">
-							<width>36</width>
-							<height>36</height>
-							<aspectratio>stretch</aspectratio>
-							<texture>windows/pvr/clock_progress/back.png</texture>
-						</control>
-						<control type="image">
-							<width>36</width>
-							<height>36</height>
-							<aspectratio>stretch</aspectratio>
-							<colordiffuse>viewsinfo</colordiffuse>
-							<texture>$VAR[PVRTimeProgress]</texture>
-						</control>
+						<width>36</width>
+						<height>36</height>
+						<aspectratio>stretch</aspectratio>
+						<colordiffuse>viewsinfo</colordiffuse>
+						<texture>$VAR[PVRTimeProgress]</texture>
+						<visible>ListItem.HasEpg</visible>
 					</control>
 					-->
 					<control type="image">
