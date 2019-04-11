@@ -1,5 +1,6 @@
 # Translators:
 # Nessus85100 <nessus85100@hotmail.com>, 2019
+# Nessus85100 <nessus85100@hotmail.com>, 2019
 # 
 msgid ""
 msgstr ""
@@ -725,7 +726,7 @@ msgid "Popular Movies"
 msgstr "Popular Movies"
 
 msgctxt "#31252"
-msgid "Popular  TV Shows"
+msgid "Popular TV Shows"
 msgstr "Popular TV Shows"
 
 msgctxt "#31253"
@@ -749,7 +750,7 @@ msgid "Trending Movies"
 msgstr "Trending Movies"
 
 msgctxt "#31258"
-msgid "Trending  TV Shows"
+msgid "Trending TV Shows"
 msgstr "Trending TV Shows"
 
 msgctxt "#31259"
@@ -785,7 +786,7 @@ msgid "Top Rated Movies"
 msgstr "Top Rated Movies"
 
 msgctxt "#31267"
-msgid "Top Rated  TV Shows"
+msgid "Top Rated TV Shows"
 msgstr "Top Rated TV Shows"
 
 msgctxt "#31268"
