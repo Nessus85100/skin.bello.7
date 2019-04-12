@@ -268,7 +268,7 @@ msgstr "Widget Ταινιών"
 
 msgctxt "#31095"
 msgid "TV Shows Widgets"
-msgstr "Widget Τηλ. Σειρών"
+msgstr "Widget Σειρών"
 
 msgctxt "#31096"
 msgid "Music Widgets"
@@ -420,11 +420,11 @@ msgstr "Λήψη Επιπλέον Εικόνων"
 
 msgctxt "#31146"
 msgid "Download logo.png for all TV Shows"
-msgstr "Λήψη logo.png για όλες τις Τηλ. Σειρές"
+msgstr "Λήψη logo.png για όλες τις Σειρές"
 
 msgctxt "#31147"
 msgid "Download clearart.png for all TV Shows"
-msgstr "Λήψη clearart.png για όλες τις Τηλ. Σειρές"
+msgstr "Λήψη clearart.png για όλες τις Σειρές"
 
 msgctxt "#31148"
 msgid "Download landscape.jpg for all TV Shows"
@@ -432,11 +432,11 @@ msgstr "Λήψη landscape.jpg για όλες τις Τηλ. Σειρές"
 
 msgctxt "#31149"
 msgid "Download banner.jpg for all TV Shows"
-msgstr "Λήψη banner.jpg για όλες τις Τηλ. Σειρές"
+msgstr "Λήψη banner.jpg για όλες τις Σειρές"
 
 msgctxt "#31150"
 msgid "Download poster.jpg for all TV Shows"
-msgstr "Λήψη poster.jpg για όλες τις Τηλ. Σειρές"
+msgstr "Λήψη poster.jpg για όλες τις Σειρές"
 
 msgctxt "#31151"
 msgid "Show RSS feed in whole skin"
