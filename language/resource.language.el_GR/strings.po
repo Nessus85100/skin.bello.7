@@ -428,7 +428,7 @@ msgstr "Λήψη clearart.png για όλες τις Σειρές"
 
 msgctxt "#31148"
 msgid "Download landscape.jpg for all TV Shows"
-msgstr "Λήψη landscape.jpg για όλες τις Τηλ. Σειρές"
+msgstr "Λήψη landscape.jpg για όλες τις Σειρές"
 
 msgctxt "#31149"
 msgid "Download banner.jpg for all TV Shows"
