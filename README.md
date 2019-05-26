@@ -94,8 +94,10 @@ These add-ons are not required for the installation but are needed for certain s
 ## Translations
 Currently Bello is available in folowing languages. Obviously it needs a lot of translations. If you want to help on translating Bello in your native language please sing up to Transifex and join the [Bello UI Translation Team](https://www.transifex.com/bello-ui/bello-translation-team/dashboard/). If your language is not added, PM me and i will add it.
 <ul><li>English</li>
-<li>Greek</li>
-<li>Italian</li></ul>
+<li>Greek (Greece)</li>
+<li>Italian (Italy)</li></ul>
+<li>Russian (Russia)</li></ul>
+<li>German (Germany</li></ul>
 <br>
 
 ## Disclaimer

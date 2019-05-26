@@ -186,13 +186,16 @@
 				<top>-2000</top>
 			</control>
 
+			<include>CommonScrollingLetters</include>
+			<include>CommonNowPlaying</include>
+			
 			<control type="group">
 				<left>25</left>
 				<top>45</top>
 				<include>OpenCloseSlideAnimation</include>
 				<include>VisibleHiddenSlideAnimation</include>
 				<include>WeatherAndClock</include>
-				<visible>![Window.IsActive(DialogVideoInfo.xml) | Window.IsActive(DialogMusicInfo.xml) | Window.IsActive(DialogAddonInfo.xml) | Window.IsActive(DialogPVRInfo.xml) | Window.IsActive(PlayerControls) | Window.IsActive(Favourites)]</visible>
+				<visible>![Container.Scrolling | Window.IsActive(DialogVideoInfo.xml) | Window.IsActive(DialogMusicInfo.xml) | Window.IsActive(DialogAddonInfo.xml) | Window.IsActive(DialogPVRInfo.xml) | Window.IsActive(PlayerControls) | Window.IsActive(Favourites)]</visible>
 			</control>
 
 	</controls>
